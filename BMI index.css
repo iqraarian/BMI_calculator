@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family:  sans-serif;
+    background-image: url(./yoga.webp);
+    background-size: cover
+    }
+form{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    width: 400px;
+    background-color: bisque;
+    transform: translate(-43% , -43%);
+    box-shadow: 2px 2px 20px #919191;
+
+}
+h1{
+
+    background-color: bisque;
+    top: 50%;
+    left: 50%;
+
+}
+.text{
+    text-align: left;
+    color: #fff;
+    margin-left: 70px;
+}
